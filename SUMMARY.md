@@ -2,4 +2,6 @@
 
 * [Welcome to the EmComm Primer](README.md)
 ## Getting Started
-* [Getting Started](GETTING_STARTED.md)
+* [Overview](OVERVIEW.md)
+* [Types of Radios](TYPES_OF_RADIOS.md)
+* [Frequencies](FREQUENCY_BANDS/md)
