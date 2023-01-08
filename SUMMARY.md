@@ -5,3 +5,4 @@
 * [Overview](getting-started/OVERVIEW.md)
 * [Types of Radios](getting-started/TYPES_OF_RADIOS.md)
 * [Frequencies](getting-started/FREQUENCY_BANDS/md)
+## Communications Plan (SOI)
