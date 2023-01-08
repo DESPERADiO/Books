@@ -2,6 +2,6 @@
 
 * [The DESPERADiO EmComm Primer](README.md)
 ## Getting Started
-* [Overview](OVERVIEW.md)
+* [Overview](getting-started/OVERVIEW.md)
 * [Types of Radios](getting-started/TYPES_OF_RADIOS.md)
-* [Frequencies](FREQUENCY_BANDS/md)
+* [Frequencies](getting-started/FREQUENCY_BANDS/md)
