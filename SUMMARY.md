@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the DESPERADiO EmComm Primer](README.md)
+* [The DESPERADiO EmComm Primer](README.md)
 ## Getting Started
 * [Overview](OVERVIEW.md)
 * [Types of Radios](TYPES_OF_RADIOS.md)
